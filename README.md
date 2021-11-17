@@ -34,9 +34,9 @@ You can send POST requests from <a href="https://web.postman.co/home">Postman</a
 - Java (JDK version 11)
 - MySQL database
 - Tomcat - web-server (version 9.0.54)
-- Javax Servlet API (version 4.0)
-- JSP (Java Server Page)
-- JSTL (JSP Standard Tag Library) (version 1.2)
+- Hibernate
+- Spring (Spring Core, Spring Security, Spring Web)
+- JSON
 - Maven (version 3.6.3)
 
 <a id="installation"></a>
