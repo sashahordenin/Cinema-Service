@@ -13,6 +13,8 @@
 Cinema service App is a web-app, built based on SOLID
 principles using Hibernate, Spring frameworks.
 
+You can test this application just following the link https://cinema-service-hordenin.herokuapp.com/ or go through [Installation](#installation).
+
 <a id="features"></a>
 ## Features:
 
